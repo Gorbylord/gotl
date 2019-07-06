@@ -1,9 +1,6 @@
 #include "gotl.h"
 
 int main(){
-	while(true){
-
-	break;
-	}
+	::gotl::test();
 	return 0;
 }
