@@ -1,4 +1,5 @@
 #include "gotl_error.h"
+
 #include <string>
 
 #ifndef GOTL_H_76293847619837539767953

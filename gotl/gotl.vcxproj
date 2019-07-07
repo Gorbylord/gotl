@@ -163,10 +163,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gotl.cpp" />
+    <ClCompile Include="gotl_html.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="gotl.h" />
+    <ClInclude Include="gotl_html.h" />
+    <ClInclude Include="gotl_error.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
